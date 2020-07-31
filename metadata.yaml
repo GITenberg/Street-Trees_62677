@@ -1,0 +1,26 @@
+_repo: Street-Trees_62677
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mulford, Furman Lloyd
+    alias: Mulford, F. L. (Furman Lloyd)
+    birthdate: 1869
+    gutenberg_agent_id: '52072'
+    url: http://www.gutenberg.org/2009/agents/52072
+description: ''
+gutenberg_issued: '2020-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62677'
+  lccn: agr20000665
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: United States. Department of Agriculture. Bulletin no. 816
+subjects:
+- !lcc 'SB'
+- !lcsh 'Trees in cities'
+- GITenberg
+title: Street Trees
+url: http://www.gutenberg.org/ebooks/62677
