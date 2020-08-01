@@ -1,5 +1,8 @@
 _repo: Street-Trees_62677
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 62677-h/images/cover.jpg
 creator:
   author:
     agent_name: Mulford, Furman Lloyd
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '52072'
     url: http://www.gutenberg.org/2009/agents/52072
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62677#Street-Trees
 gutenberg_issued: '2020-07-16'
 gutenberg_type: Text
 identifiers:
